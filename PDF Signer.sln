@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF Signer", "PDF Signer\PDF Signer.csproj", "{43F20265-F369-4B21-96E5-83A5AE2E4486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Debug|x64.ActiveCfg = Debug|x64
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Debug|x64.Build.0 = Debug|x64
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Debug|x86.ActiveCfg = Debug|x86
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Debug|x86.Build.0 = Debug|x86
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Release|x64.ActiveCfg = Release|x64
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Release|x64.Build.0 = Release|x64
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Release|x86.ActiveCfg = Release|x86
+		{43F20265-F369-4B21-96E5-83A5AE2E4486}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E3EEDD-05AF-4827-ADF5-DAE554069552}
+	EndGlobalSection
+EndGlobal

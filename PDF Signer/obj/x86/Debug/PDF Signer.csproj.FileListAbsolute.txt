@@ -1,0 +1,19 @@
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\PDFSigner.exe.config
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\PDFSigner.exe
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\PDFSigner.pdb
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\PdfiumViewer.dll
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\SignLib.dll
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\iTextSharp-4.1.6.dll
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\PdfiumViewer.pdb
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\SignLib.xml
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\bin\x86\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDF Signer.csproj.AssemblyReference.cache
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDFSigner.CertificateSelection.resources
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDFSigner.FormPDFSigner.resources
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDFSigner.Properties.Resources.resources
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDFSigner.SetCustomPosition.resources
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDF Signer.csproj.GenerateResource.cache
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDF Signer.csproj.CoreCompileInputs.cache
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDF Signer.csproj.CopyComplete
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDFSigner.exe
+C:\Users\xnaga\Desktop\SignLib\NET Framework Projects\C# PDF Signer Windows Forms\PDF Signer\obj\x86\Debug\PDFSigner.pdb
